@@ -6,6 +6,7 @@ Welcome to ClojureBridge
 
 * [Friday](friday.md)
 * [Saturday](saturday.md)
+* [Code of Conduct](conduct.md)
 
 ## Introductions
 
